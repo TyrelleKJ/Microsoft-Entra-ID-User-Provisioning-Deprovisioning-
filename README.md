@@ -1,5 +1,5 @@
 # Microsoft EntraID User Provisioning, De-provisioning and Configuration 
-Light demonstration providing hands on evidence on my ability to proficiently navigate Microsoft 365.
+Hands-on lab documenting user creation, verification, and lifecycle management in Microsoft Entra ID, aligned to SC-300
 
 
 # Microsoft Entra ID Identity Lab
