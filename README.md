@@ -37,6 +37,23 @@ This project is a hands-on lab in Microsoft Entra ID (formerly Azure AD), Micros
 | Created User & Viewed Properties |<img width="1160" height="769" alt="image" src="https://github.com/user-attachments/assets/20823306-490c-4bb3-aeee-daa16a214915" />
 | Updated user list |[<img width="1048" height="703" alt="Screenshot 2026-10-13 at 7 02 48 AM" src="https://github.com/user-attachments/assets/4d3af788-b016-4930-b84d-158f92ce8099" /> ](https://github.com/TyrelleKJ/Microsoft-Entra-ID-User-Provisioning-Deprovisioning-#completed)|
 | Screen recording | https://github.com/user-attachments/assets/99c51fb8-a8d3-4010-8a4d-a9778527c4ad |
+## User De-Provisioning, Deletion and Recovery
+|Evidence| 
+|--------|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## What I Learned
 - How user identities are created and organized in a cloud tenant.
 - Why consistent naming conventions for UPNs and display names matter for managing users at scale.
