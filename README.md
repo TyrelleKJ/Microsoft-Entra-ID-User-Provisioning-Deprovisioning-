@@ -32,7 +32,8 @@ This project is a hands-on lab in Microsoft Entra ID (formerly Azure AD), Micros
 
 | Step | Evidence |
 |------|----------|
-| Starting user list | [screenshots/01-users-before.png](screenshots/01-users-before.png) |
+| Starting user list | <img width="1048" height="703" alt="Screenshot 2026-10-13 at 7 02 48 AM" src="https://github.com/user-attachments/assets/4d3af788-b016-4930-b84d-158f92ce8099" />
+|
 | Create new user form | [screenshots/02-create-new-user.png](screenshots/02-create-new-user.png) |
 | Updated user list | [screenshots/03-users-after.png](screenshots/03-users-after.png) |
 | Screen recording | [screenshots/create-user-walkthrough.mov](screenshots/create-user-walkthrough.mov) |
