@@ -32,9 +32,9 @@ This project is a hands-on lab in Microsoft Entra ID (formerly Azure AD), Micros
 
 | Step | Evidence |
 |------|----------|
-| Starting user list | <img width="1440" height="900" alt="Screenshot 2026-10-13 at 8 15 33 AM" src="https://github.com/user-attachments/assets/fa326d01-9716-40a3-90f0-d3af68b6961d" />
+| Starting user list |<img width="1161" height="769" alt="image" src="https://github.com/user-attachments/assets/be95444e-4394-46ee-b109-b7992cabb049" />
 |Create new user form | <img width="1157" height="761" alt="image" src="https://github.com/user-attachments/assets/f2e965c9-4a60-4dd3-8f0a-c12d254c3990" />
-| Created User & Viewed Properties | <img width="1440" height="900" alt="Screenshot 2026-10-13 at 8 15 33 AM" src="https://github.com/user-attachments/assets/75f5f191-47c9-4182-b8f7-8a2cb81d4683" /> 
+| Created User & Viewed Properties |<img width="1160" height="769" alt="image" src="https://github.com/user-attachments/assets/20823306-490c-4bb3-aeee-daa16a214915" />
 | Updated user list |[<img width="1048" height="703" alt="Screenshot 2026-10-13 at 7 02 48 AM" src="https://github.com/user-attachments/assets/4d3af788-b016-4930-b84d-158f92ce8099" /> ](https://github.com/TyrelleKJ/Microsoft-Entra-ID-User-Provisioning-Deprovisioning-#completed)|
 | Screen recording | https://github.com/user-attachments/assets/99c51fb8-a8d3-4010-8a4d-a9778527c4ad |
 ## What I Learned
