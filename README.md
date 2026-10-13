@@ -40,20 +40,7 @@ This project is a hands-on lab in Microsoft Entra ID (formerly Azure AD), Micros
 ## User De-Provisioning, Deletion and Recovery
 |Evidence| 
 |--------|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/8f0ac83a-0713-4d23-aa95-7f69b9040686
 ## What I Learned
 - How user identities are created and organized in a cloud tenant.
 - Why consistent naming conventions for UPNs and display names matter for managing users at scale.
